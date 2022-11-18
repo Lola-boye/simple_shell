@@ -14,8 +14,8 @@
                                                                       
 ```
 
-## HSH: The Holberton Shell
-The gates of shell is a Holberton School project in the first trimester, helps student to understand the advanced
+##
+ This is a project that treats the advanced
 concepts behind the shell program include process, system call, bit manipulation, file managment, error handling ...
 
 ### Genreral
@@ -67,5 +67,5 @@ You need to make sure that this shell tested and garantees work based on `gcc-4.
 
 
 
-## Authors
-Issam Sebri - Machine learning enthusiast & full stack developer - [Linkedin](https://www.linkedin.com/in/issam-sebri/) - [Twitter](https://twitter.com/KoeusIss)
+## Authors 
+Cody619- Josh Lola-boye 
