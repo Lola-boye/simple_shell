@@ -1,4 +1,5 @@
 #include "shell.h"
+/*remove*/
 /**
  * is_path_form - chekc if the given fikenname is a path
  * @data: the data strucct pointer
