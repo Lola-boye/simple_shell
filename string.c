@@ -1,5 +1,5 @@
 #include "shell.h"
-
+/*remove*/
 /**
  * _strcat - concatenates two string in a path form
  * @first: the first given destination
