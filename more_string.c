@@ -1,8 +1,5 @@
 #include "shell.h"
-<<<<<<< HEAD
 
-=======
->>>>>>> cadbb627aa13bad589069e8fc400d67d34f62fe7
 /**
  * _strcpy - copie a string from source to destination
  * @source: the string source
