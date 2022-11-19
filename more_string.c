@@ -1,5 +1,5 @@
 #include "shell.h"
-/*remove*
+
 /**
  * _strcpy - copie a string from source to destination
  * @source: the string source
